@@ -1,0 +1,14 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 2rem 4rem;
+}
+.table{
+    width: 100%;
+    text-align: center;
+}
+.mensaje{
+    text-align: center;
+}
